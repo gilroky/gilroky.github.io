@@ -24,11 +24,11 @@ Databases Artifact was an interesting artifact for me to do, as it felt like a c
 
 Video:
 
-Artifact 1 Software Design and Engineering - 
+[Artifact 1 Software Design and Engineering](https://github.com/gilroky/gilroky.github.io/blob/master/Artifact1/src/Hello.cpp).
 
-Artifact 2 Algorithms and Data Structure - 
+[Artifact 2 Algorithms and Data Structure](https://github.com/gilroky/gilroky.github.io/tree/master/Artifact2/src)
 
-Artifact 3 Databases - 
+[Artifact 3 Databases](https://github.com/gilroky/gilroky.github.io/blob/master/CSCapstoneFinal.js)
 
 
 
