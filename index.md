@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+Welcome to Kyle Gilroy's Homepage!
 
-You can use the [editor on GitHub](https://github.com/gilroky/gilroky.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is used to showcase my various skills in the field of computer science.
 
 ### Markdown
 
