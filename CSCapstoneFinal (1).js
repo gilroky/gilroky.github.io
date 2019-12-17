@@ -19,9 +19,9 @@ MongoClient.connect(url, function(err, db) {
     { name: 'Bob', address: 'Apple St 652'},
     { name: 'Bill', address: 'Mountain 21'},
     { name: 'Brady', address: 'Valley 345'},
-		{ name: 'Tom', address: 'Valley 342'},
-		{ name: 'Harry', address: 'Valley 340'},
-		{ name: 'Minerva', address: 'Valley Road'},
+    { name: 'Tom', address: 'Valley 342'},
+    { name: 'Harry', address: 'Valley 340'},
+    { name: 'Minerva', address: 'Valley Road'}
   ];
   dbo.collection("customers").insertMany(myobj, function(err, res) {
     if (err) throw err;
